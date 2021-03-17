@@ -20,7 +20,7 @@
 
 ### Languages and Tools :computer:
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/shriya030)](https://github.com/shriya030) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shriya030)](https://github.com/shriya030) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/shriya030)](https://github.com/shriya030) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shriya030)](https://github.com/shriya030) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/shriya030)](https://github.com/shriya030) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/shriya030)](https://github.com/shriya030)
 
