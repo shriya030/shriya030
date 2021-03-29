@@ -49,6 +49,17 @@
 </a>
 </div>
 
+
+
+![shriya030 github activity graph](https://activity-graph.herokuapp.com/graph?username=shriya030&theme=xcode)
+  
+## 🔥 My contribution streak:
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriya030&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
+
 <!-- Actual text -->
 
 <!--
