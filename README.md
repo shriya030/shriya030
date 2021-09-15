@@ -3,9 +3,8 @@
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=shriya030.shriya030) -->
 
-- 📚 I'm a 2nd year CSE student 
+- 📚 I'm a 3rd year CSE student 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning about Open Source
 - 🤔 I’m looking for help with NodeJS and MongoDB
 - 👯 I’m looking to collaborate on Open source Projects
 - 😄 Pronouns: She/Her
