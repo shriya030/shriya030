@@ -30,7 +30,7 @@
 
 ##  Find Me on :speech_balloon:
 
-[![Twitter Badge](https://img.shields.io/badge/-@shriya3011-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shriya3011)](https://twitter.com/shriya3011) [![Linkedin Badge](https://img.shields.io/badge/-@shriya--chadha30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/shriya-chadha30/) [![Instagram Badge](https://img.shields.io/badge/-@shriya1811-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/shriya1811/)](https://www.instagram.com/shriya1811/)
+[![Twitter Badge](https://img.shields.io/badge/-@shriya3011-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shriya3011)](https://twitter.com/shriya3011) [![Linkedin Badge](https://img.shields.io/badge/-@shriya--chadha30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/shriya-chadha30/) [![Instagram Badge](https://img.shields.io/badge/-@shriya1811-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/shriya_030/)](https://www.instagram.com/shriya_030/)
 
 ## :trophy: My Github Stats:
 
