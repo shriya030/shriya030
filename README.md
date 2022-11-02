@@ -3,13 +3,16 @@
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=shriya030.shriya030) -->
 
-- 📚 I'm a 3rd year CSE student 
-- 🔭 I’m currently working on ReactJS
-- 🤔 I’m looking for help with NodeJS and MongoDB
+- 📚 I'm a 4th year CSE student 
+- 🔭 I’m currently working on ReactJS and NodeJS
+- 💻 I'm working as Content Engineer Intern at ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+- 🤔 I’m a former Web Development Intern at MemeChat Private Limited
 - 👯 I’m looking to collaborate on Open source Projects
 - 😄 Pronouns: She/Her
 
 ## Achievements 🏅
+
+- Received ISTE (Indian Society of Technical Education) Best Student Award - 2022
 
 - Selected in 120 girls from all over India for [Talentsprint Women Engineers Scholarship](https://we.talentsprint.com/)
 
@@ -19,36 +22,25 @@
 
 ### Languages and Tools :computer:
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/shriya030)](https://github.com/shriya030) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shriya030)](https://github.com/shriya030) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&link=https://github.com/shriya030)](https://github.com/shriya030) [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/shriya030)](https://github.com/shriya030) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/shriya030)](https://github.com/shriya030) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/shriya030)](https://github.com/shriya030) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/shriya030)](https://github.com/shriya030) [![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/shriya030)](https://github.com/shriya030) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [!![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/shriya030)](https://github.com/shriya030) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/shriya030)](https://github.com/shriya030)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
 
 ##  Find Me on :speech_balloon:
 
-[![Twitter Badge](https://img.shields.io/badge/-@shriya3011-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shriya3011)](https://twitter.com/shriya3011) [![Linkedin Badge](https://img.shields.io/badge/-@shriya--chadha30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/shriya-chadha30/) [![Instagram Badge](https://img.shields.io/badge/-@shriya1811-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/shriya_030/)](https://www.instagram.com/shriya_030/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/shriya030)](https://twitter.com/shriya030) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/shriya-chadha30/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/shriya_030/)](https://www.instagram.com/shriya_030/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/shriya030/)](https://leetcode.com/shriya030/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/shriya3011)](https://www.codechef.com/users/shriya3011)
 
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shriya030&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shriya030&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shriya030&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shriya030&hide=php&theme=tokyonight" />
-</a>
-</div>
-
-
+![shriya030 GitHub stats](https://github-readme-stats.vercel.app/api?username=shriya030&show_icons=true&theme=tokyonight)
 
 ![shriya030 github activity graph](https://activity-graph.herokuapp.com/graph?username=shriya030&theme=xcode)
   
@@ -61,9 +53,3 @@
 
 <!-- Actual text -->
 
-<!--
-**shriya030/shriya030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Here are some ideas to get you started:
-
--->
