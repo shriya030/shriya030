@@ -4,7 +4,7 @@
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=shriya030.shriya030) -->
 
 - 🏢 I am a Software Engineer at Morgan Stanley.
-- 📚 I have 1.5 years of experience.
+- 📚 I have 1.5 years of professional experience.
 - 🔭 I am proficient in C++, Python, HTML, CSS, JavaScript, ReactJS, Linux, Jenkins, PostgreSQL
 - 💻 I'm a former Content Engineer Intern at Morgan Stanley and ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white).
 - 🤔 I’m a former Web Development Intern at MemeChat Private Limited
