@@ -3,18 +3,18 @@
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=shriya030.shriya030) -->
 
-- 📚 I'm a 4th year CSE student 
-- 🔭 I’m currently working on ReactJS and NodeJS
-- 💻 I'm working as Content Engineer Intern at ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+- 🏢 I am a Software Engineer at Morgan Stanley.
+- 📚 I have 1.5 years of experience.
+- 🔭 I am proficient in C++, Python, HTML, CSS, JavaScript, ReactJS, Linux, Jenkins, PostgreSQL
+- 💻 I'm a former Content Engineer Intern at Morgan Stanley and ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white).
 - 🤔 I’m a former Web Development Intern at MemeChat Private Limited
-- 👯 I’m looking to collaborate on Open source Projects
 - 😄 Pronouns: She/Her
 
 ## Achievements 🏅
 
 - Received ISTE (Indian Society of Technical Education) Best Student Award - 2022
 
-- Selected in 120 girls from all over India for [Talentsprint Women Engineers Scholarship](https://we.talentsprint.com/)
+- Selected among 120 girls from all over India for [Talentsprint Women Engineers Scholarship](https://we.talentsprint.com/)
 
 - Selected as open Source Contributor in [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
 
@@ -38,7 +38,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/shriya030)](https://twitter.com/shriya030) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/shriya-chadha30/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/shriya_030/)](https://www.instagram.com/shriya_030/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/shriya030/)](https://leetcode.com/shriya030/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/shriya3011)](https://www.codechef.com/users/shriya3011)
 
-## :trophy: My Github Stats:
+## :trophy: My GitHub Stats:
 
 ![shriya030 GitHub stats](https://github-readme-stats.vercel.app/api?username=shriya030&show_icons=true&theme=tokyonight)
 
